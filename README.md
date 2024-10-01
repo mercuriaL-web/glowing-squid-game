@@ -1,2 +1,2 @@
 # glowing-squid-game
-https://comesssomeall.github.io/glowing-squid-game/
+https://mercurial-web.github.io/glowing-squid-game/
